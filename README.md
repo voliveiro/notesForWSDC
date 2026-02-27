@@ -9,6 +9,7 @@
 - [Daron Acemoglu — *Why Nations Fail*](https://voliveiro.github.io/notesForWSDC/acemoglu_why_nations_fail)
 - [Michael Sandel — *The Tyranny of Merit*](https://voliveiro.github.io/notesForWSDC/tyranny_of_merit)
 - [Owen Jones — *Chavs*](https://voliveiro.github.io/notesForWSDC/chavs)
+- [Freddie DeBoer — *How Elites Ate the Social Justice Movement*](https://voliveiro.github.io/notesForWSDC/how_elites_ate_social_justice)
 
 ## How We Actually Think
 - [Keith Stanovich — *Myside Bias*](https://voliveiro.github.io/notesForWSDC/myside_bias)
