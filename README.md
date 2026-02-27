@@ -5,3 +5,4 @@
 - [Alasdair MacIntyre - *After Virtue*](https://voliveiro.github.io/notesForWSDC/macintyre_after_virtue)
 - [Daron Acemoglu - *Why Nations Fail*](https://voliveiro.github.io/notesForWSDC/acemoglu_why_nations_fail)
 - [David Runciman - *The Handover*](https://voliveiro.github.io/notesForWSDC/handover)
+- [Kathryn Paige Harden - *The Genetic Lottery*](https://voliveiro.github.io/notesForWSDC/genetic_lottery)
