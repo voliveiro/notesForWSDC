@@ -8,3 +8,4 @@
 - [Kathryn Paige Harden - *The Genetic Lottery*](https://voliveiro.github.io/notesForWSDC/genetic_lottery)
 - [Keith Stanovich - *Myside Bias*](https://voliveiro.github.io/notesForWSDC/myside_bias)
 - [Jonathan Haidt - *The Righteous Mind*](https://voliveiro.github.io/notesForWSDC/righteous_mind)
+- [Ten Cognitive Biases](https://voliveiro.github.io/notesForWSDC/cognitive_biases)
