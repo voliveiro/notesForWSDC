@@ -87,6 +87,26 @@ Liberalism extends liberation to nature itself:
 
 ---
 
+## Two Disorders, One Logic
+
+Economic liberalism produces *material* disorder:
+- Creative destruction displaces stable livelihoods
+- Labour mobility uproots people from place and community
+- Local economies are hollowed out by global markets
+
+Social liberalism produces *cultural and anthropological* disorder:
+- Stable identity categories dissolve
+- Inherited social roles and family structures loosen
+- Shared moral frameworks fragment
+
+These appear to be opposites. They are not. Both flow from the same premise: **the autonomous individual should be free from inherited constraints.**
+
+And they spiral together: economic disruption weakens the communities and families that might otherwise anchor cultural life. Cultural disruption weakens the shared moral frameworks that might constrain economic excess.
+
+**The disorder is not a bug. It is the system working as designed.**
+
+---
+
 ## Erosion of Intermediary Institutions
 
 Liberalism weakens mediating structures between individual and state:
