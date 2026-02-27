@@ -4,10 +4,10 @@
 - [Patrick Deneen — *Why Liberalism Failed*](https://voliveiro.github.io/notesForWSDC/deneen_why_liberalism_failed)
 - [Alasdair MacIntyre — *After Virtue*](https://voliveiro.github.io/notesForWSDC/macintyre_after_virtue)
 - [Three Criticisms of Identity Politics](https://voliveiro.github.io/notesForWSDC/three_criticisms_identity_politics)
-- [Alternative Visions of the Self](https://voliveiro.github.io/notesForWSDC/alternative_visions_of_the_self)
+- [Freddie DeBoer — *How Elites Ate the Social Justice Movement*](https://voliveiro.github.io/notesForWSDC/how_elites_ate_social_justice)
 
 ## The Self Beyond Liberalism
-- [Patrick Deneen — *Why Liberalism Failed*](https://voliveiro.github.io/notesForWSDC/deneen_why_liberalism_failed)
+- [Alternative Visions of the Self](https://voliveiro.github.io/notesForWSDC/alternative_visions_of_the_self)
 
 ## Institutions, Power, and Inequality
 - [Daron Acemoglu — *Why Nations Fail*](https://voliveiro.github.io/notesForWSDC/acemoglu_why_nations_fail)
