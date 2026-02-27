@@ -4,12 +4,12 @@
 - [Patrick Deneen — *Why Liberalism Failed*](https://voliveiro.github.io/notesForWSDC/deneen_why_liberalism_failed)
 - [Alasdair MacIntyre — *After Virtue*](https://voliveiro.github.io/notesForWSDC/macintyre_after_virtue)
 - [Three Criticisms of Identity Politics](https://voliveiro.github.io/notesForWSDC/three_criticisms_identity_politics)
+- [Freddie DeBoer — *How Elites Ate the Social Justice Movement*](https://voliveiro.github.io/notesForWSDC/how_elites_ate_social_justice)
 
 ## Institutions, Power, and Inequality
 - [Daron Acemoglu — *Why Nations Fail*](https://voliveiro.github.io/notesForWSDC/acemoglu_why_nations_fail)
 - [Michael Sandel — *The Tyranny of Merit*](https://voliveiro.github.io/notesForWSDC/tyranny_of_merit)
 - [Owen Jones — *Chavs*](https://voliveiro.github.io/notesForWSDC/chavs)
-- [Freddie DeBoer — *How Elites Ate the Social Justice Movement*](https://voliveiro.github.io/notesForWSDC/how_elites_ate_social_justice)
 
 ## How We Actually Think
 - [Keith Stanovich — *Myside Bias*](https://voliveiro.github.io/notesForWSDC/myside_bias)
