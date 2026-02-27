@@ -8,4 +8,7 @@
 - [Kathryn Paige Harden - *The Genetic Lottery*](https://voliveiro.github.io/notesForWSDC/genetic_lottery)
 - [Keith Stanovich - *Myside Bias*](https://voliveiro.github.io/notesForWSDC/myside_bias)
 - [Jonathan Haidt - *The Righteous Mind*](https://voliveiro.github.io/notesForWSDC/righteous_mind)
+- [Michael Sandel - *The Tyranny of Merit*](https://voliveiro.github.io/notesForWSDC/tyranny_of_merit)
+- [Nassim Taleb - *Antifragile*](https://voliveiro.github.io/notesForWSDC/antifragile)
+- [Owen Jones - *Chavs*](https://voliveiro.github.io/notesForWSDC/chavs)
 - [Ten Cognitive Biases](https://voliveiro.github.io/notesForWSDC/cognitive_biases)
