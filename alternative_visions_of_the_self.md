@@ -128,7 +128,5 @@ Despite profound differences, all six traditions agree on this:
 
 Across radically different cultures and centuries, the autonomous liberal self is the outlier — not the universal human default that liberalism presents it as.
 
-If almost every major tradition of human wisdom challenges this conception of the self, the burden of proof lies with liberalism — not with its critics.
-
 **The question for political thinking is not: how do we protect the autonomous self?**
 **It is: what kind of self do we want to cultivate — and within what relationships, obligations, and traditions?**
