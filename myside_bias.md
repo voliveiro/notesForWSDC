@@ -60,6 +60,23 @@ Partisan identity functions like a prior belief that shapes all subsequent reaso
 
 ---
 
+## Convictions, Ideology, and the Two Reasons We Believe Things
+
+Not all beliefs are equally resistant to revision. Stanovich draws a distinction that helps explain why ideological beliefs are particularly entrenched.
+
+We hold beliefs for two fundamentally different kinds of reasons:
+
+- **Epistemic reasons** — we believe something because the evidence seems to support it. The belief is, at least in principle, responsive to counter-evidence.
+- **Utilitarian reasons** — we believe something because holding that belief is socially or psychologically useful. It signals group membership, confers status, and binds us to a community.
+
+Many ideological convictions are held primarily for utilitarian reasons — not because we've independently evaluated the evidence, but because they are part of what it means to belong to our tribe. When that's the case, updating the belief isn't just an intellectual move. It's a social and identity cost: you risk losing standing, relationships, and a sense of who you are.
+
+This is why **convictions make myside bias worse.** It isn't just that we have stronger priors — it's that the *price of being wrong* is much higher. Myside bias in service of a conviction isn't lazy reasoning; it's motivated defense of something that does real psychological and social work for you.
+
+The practical implication is sobering: the domain where good reasoning matters most — politics, ethics, social policy — is precisely the domain where convictions are most ideologically loaded, and therefore where myside bias is most entrenched and most resistant to correction.
+
+---
+
 ## The Frog in the Pot
 
 One of Stanovich's key points: myside bias is largely invisible to the person experiencing it. We experience our own reasoning as objective and fair. We notice myside bias in others — rarely in ourselves.
