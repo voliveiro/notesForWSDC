@@ -37,8 +37,6 @@ Christianity doesn't deny the self exists — but insists it cannot save itself 
 
 *The body of Christ* — Paul's ecclesiology in 1 Corinthians 12. The community of believers is not a collection of autonomous individuals who have chosen to associate. It is a single body in which each member has a function, and suffering and joy are shared. "If one member suffers, all suffer together."
 
-*Iris Murdoch and Simone Weil* — both argue that the moral life requires *unselfing* — quieting the ego so that genuine attention to reality and to others becomes possible. Weil: the self must be *decreated* — unmade — so that love can flow through it unimpeded.
-
 **The challenge to liberalism:** The self is real but radically incomplete. It is not the author of its own ends — it is oriented toward something beyond itself, and flourishes only through self-giving, not self-maximisation.
 
 ---
