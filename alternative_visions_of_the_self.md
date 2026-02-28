@@ -57,8 +57,6 @@ The *umma* — the community of believers — is not a voluntary association of 
 
 The Jewish tradition offers yet another model: the *commanded self*. Rather than the liberal self who chooses its obligations, the Jewish self is already obligated — by covenant, by Torah, by the inheritance of a people's history.
 
-Emmanuel Levinas: before I have chosen anything, the face of the other makes an infinite claim on me. **Responsibility precedes freedom.** The liberal order gets it exactly backwards — it starts with freedom and then asks what obligations I choose to take on.
-
 Rabbi Jonathan Sacks: the liberal emphasis on rights produces a culture of entitlement without obligation. What holds societies together is not rights but *covenantal* relationships — bonds of mutual obligation that are not chosen but inherited and renewed.
 
 **The challenge to liberalism:** Obligation is not a constraint on the self — it is constitutive of it. We are not free agents who then choose our responsibilities. We are already responsible before we choose anything.
